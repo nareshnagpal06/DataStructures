@@ -14,7 +14,7 @@ namespace DS
 
         public bool find(string value)
         {
-            if (rootNode.Value==value)
+            
         }
     }
 
